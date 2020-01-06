@@ -1,0 +1,2 @@
+rm *.json
+scrapy crawl attraction -o reviews.json
